@@ -1,122 +1,153 @@
-# 👩‍💻 Hey, I'm Anusha Shetty!
 
-<div align="center">
+<!-- PROFILE HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:20DDB5&height=200&section=header&text=Anusha%20Shetty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<h1 align="center">Hi 👋, I'm Anusha Shetty</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=20DDB5&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress;Flutter+%7C+App+Development;Exploring+AI+%2F+ML;Learning+and+Building+Every+Day)](https://git.io/typing-svg)
+<h3 align="center">
+  Computer Science Engineering Student | Aspiring Software Developer | AI/ML Enthusiast
+</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anusha123953&label=Profile%20Views&color=0D9488&style=flat)
-
-</div>
-
----
-
-## 🌱 About Me
-
-- 🎓 Computer Science Engineering student at **Bangalore Technological Institute**
-- 💻 Learning Python and software development.
-- 📱 Exploring Flutter and mobile app development.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🌐 Exploring web development and modern frameworks.
-- 🚀 Passionate about building real-world projects.
-- 🎯 Working towards becoming a skilled Software Development Engineer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Exploring+Web+Development;Learning+Flutter+%26+Dart;Exploring+AI+%2F+ML;Building+Projects+Every+Day" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 What I'm Currently Learning
+## 👩‍💻 About Me
 
-| Area | Focus |
-|---|---|
-| 🐍 Python | Programming fundamentals and problem solving |
-| 📱 Flutter | Mobile application development |
-| 🤖 AI/ML | Machine Learning fundamentals |
-| 🌐 Web Development | HTML, CSS, JavaScript and frameworks |
-| 🔧 Git & GitHub | Version control and collaboration |
-| 🗄️ SQL | Database fundamentals |
+- 🎓 Computer Science Engineering Student.
+- 💻 Interested in Software Development and Artificial Intelligence.
+- 🌱 Currently learning Python, Web Development and Flutter.
+- 🚀 Exploring different frameworks and technologies.
+- 🔍 Interested in Open Source Contributions.
+- 🎯 Working towards becoming a Software Development Engineer.
+- 📚 Believe in learning by building real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## 🛠️ Languages and Tools
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,dart,java,c,html,css,js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,js,dart" />
+</p>
 
-### Frameworks, Databases & Tools
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,react,mongodb,mysql,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
 
-</div>
+### Frameworks and Technologies
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mongodb,mysql" />
+</p>
 
-## 🚀 Featured Projects
+### Tools
 
-<div align="center">
-
-<a href="https://github.com/anusha123953/Flutter_30_Days">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anusha123953&repo=Flutter_30_Days&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/anusha123953/100-days-of-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anusha123953&repo=100-days-of-code&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📚 Currently Learning
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anusha123953&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha123953&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=anusha123953&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Python Programming
+- Data Structures and Algorithms
+- Web Development
+- Flutter and Dart
+- AI and Machine Learning
+- Software Development Frameworks
+- Git and GitHub
+- Computer Science Fundamentals
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 My Projects
 
-<div align="center">
+### 1. Flutter 30 Days Challenge
 
-<img src="https://raw.githubusercontent.com/anusha123953/anusha123953/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+Learning Flutter through daily coding practice, UI development and hands-on projects.
 
-</div>
+🔗 [View Repository](https://github.com/anusha123953/Flutter_30_Days)
+
+### 2. 100 Days of Code
+
+A coding journey focused on improving programming skills through daily practice.
+
+🔗 [View Repository](https://github.com/anusha123953/100-days-of-code)
+
+---
+
+## 💡 What I'm Interested In
+
+- Software Development
+- Artificial Intelligence and Machine Learning
+- Full Stack Development
+- Mobile App Development
+- Open Source
+- Problem Solving
+
+---
+
+## 💬 Ask Me About
+
+- Python
+- C Programming
+- HTML and CSS
+- JavaScript
+- Bootstrap
+- Flutter and Dart
+- Git and GitHub
+- Web Development
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/anusha-shetty-561527356" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://x.com/Shet88950Anusha" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
-</a>
-
-<a href="https://github.com/anusha123953" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anusha-shetty-561527356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Shet88950Anusha" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X" />
+  </a>
+  <a href="https://github.com/anusha123953" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-### ✨ "Learning, Building, Breaking, Debugging, and Growing."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anusha123953&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-**Thanks for visiting my profile! 💚**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha123953&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anusha123953&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I believe every error is an opportunity to learn something new. Debugging teaches me more than getting the code right on the first try!
+
+---
+
+<h3 align="center">
+  ✨ Learning | Building | Exploring | Growing ✨
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
