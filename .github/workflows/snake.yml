@@ -1,11 +1,13 @@
 
-
 name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -15,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: anusha123953
@@ -23,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
