@@ -15,11 +15,25 @@
 ## 🌱 About Me
 
 - 🎓 Computer Science Engineering student at **Bangalore Technological Institute**
-- 💻 Learning Python, Flutter, and software development.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🚀 Interested in building real-world projects.
-- 🌱 Currently learning new frameworks and strengthening my programming skills.
+- 💻 Learning Python and software development.
+- 📱 Exploring Flutter and mobile app development.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🌐 Exploring web development and modern frameworks.
+- 🚀 Passionate about building real-world projects.
 - 🎯 Working towards becoming a skilled Software Development Engineer.
+
+---
+
+## 💻 What I'm Currently Learning
+
+| Area | Focus |
+|---|---|
+| 🐍 Python | Programming fundamentals and problem solving |
+| 📱 Flutter | Mobile application development |
+| 🤖 AI/ML | Machine Learning fundamentals |
+| 🌐 Web Development | HTML, CSS, JavaScript and frameworks |
+| 🔧 Git & GitHub | Version control and collaboration |
+| 🗄️ SQL | Database fundamentals |
 
 ---
 
@@ -27,11 +41,13 @@
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,dart,java,c,html,css,js,sql" />
+### Programming Languages
 
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,react,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,dart,java,c,html,css,js" />
+
+### Frameworks, Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,react,mongodb,mysql,git,github,vscode" />
 
 </div>
 
@@ -81,16 +97,16 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/anusha-shetty-56152356">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/anusha-shetty-561527356" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://x.com/Shet88950Anusha">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/Shet88950Anusha" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter"/>
 </a>
 
-<a href="https://github.com/anusha123953">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/anusha123953" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
